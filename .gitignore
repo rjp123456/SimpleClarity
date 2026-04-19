@@ -28,4 +28,7 @@ yarn-error.log*
 # Local caches
 .pytest_cache/
 .mypy_cache/
-
+*.tsbuildinfo
+backend/.device_token.json
+backend/models/
+backend/.deepface/
