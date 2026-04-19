@@ -3,7 +3,7 @@
 Clarity is a dementia-assistance app built for a hackathon. It consists of:
 
 - **iPhone app** (Expo Go) — the patient-facing interface worn on a lanyard
-- **FastAPI backend** (MacBook M1) — local AI inference, scheduling, and event logging
+- **FastAPI backend** (MacBook M5) — local AI inference, scheduling, and event logging
 - **Next.js dashboard** — caregiver web interface
 
 The iPhone communicates with the backend over **Tailscale** private networking, so no public cloud infrastructure is required.
